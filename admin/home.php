@@ -118,12 +118,7 @@ if(!isset($_SESSION["user"]))
 								
 								}
 						
-						}
-						
-									
-									
-
-						
+						}					
 				?>
 
 					<div class="row">

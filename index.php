@@ -293,7 +293,7 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Nguyễn Quốc Tuấn</h4>
-							<span>Bạn thân của Trọng Nghĩa</span>
+							<span>Nhóm trưởng</span>
 							<p>Class: 70DCTT21.</p>
 							<p>MSV: 70DCTT21307.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
@@ -313,7 +313,7 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Đoàn Duy Hòa</h4>
-							<span>Chưa biết làm gì</span>
+							<span>Làm word và viết code.</span>
 							<p>Class: 70DCTT21.</p>
 							<p>MSV: 70DCTT21020.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
@@ -333,7 +333,7 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Đặng Văn Hoàng</h4>
-							<span>Bạn thân của Nguyễn viết hoàng</span>
+							<span>Làm word và viết code.</span>
 							<p>Class: 70DCTT21.</p>
 							<p>MSV: 70DCTT21066.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
@@ -353,7 +353,7 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Nguyễn Dụng Tuyên</h4>
-							<span>Bạn thân của Trọng Nghĩa</span>
+							<span>Làm word và viết code.</span>
 							<p>Class: 70DCTT21.</p>
 							<p>MSV: 70DCTT21020.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
@@ -373,7 +373,7 @@ include('db.php');
 						</div>
 						<div class="col-md-6 team-Info-agileits">
 							<h4>Hoàng Minh Tuyến</h4>
-							<span>Đaoer</span>
+							<span>Làm word và viết code.</span>
 							<p>Class: 70DCTT21.</p>
 							<p>MSV: 70DCTT21311.</p>
 						<div class="social-bnr-agileits footer-icons-agileinfo">
